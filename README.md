@@ -8,7 +8,7 @@ why was flappy bird removed from app store?
 </ul>
 
 <h2>Example Pics</h2>
-<hr>
+
 <img src="examples/1.PNG" height="500" width="300">
 
 <hr>
